@@ -1,0 +1,88 @@
+name: Update Hosts & Blocklists
+
+on:
+  schedule:
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: update
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run Update Scripts
+        run: |
+          python scripts/update.py
+          python scripts/update_blocklists.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "ZG089"
+          git config --global user.email "159061718+ZG089@users.noreply.github.com"
+
+          # Stage everything except README.md (data commit)
+          git add -A -- . ':!README.md'
+          if ! git diff --cached --quiet; then
+            # Fold data changes into the data commit, then rebuild the docs commit
+            git reset --soft HEAD~1
+            git restore --staged README.md
+            git commit --amend --no-edit
+            git add README.md
+            git commit --allow-empty -m "docs: update README"
+            git push --force
+          else
+            # Only README may have changed: amend the docs commit directly
+            git add README.md
+            if ! git diff --cached --quiet; then
+              git commit --amend -m "docs: update README"
+              git push --force
+            else
+              echo "No changes."
+            fi
+          fi
+
+      - name: Create Archive Files
+        run: |
+          cd hosts && zip -qr ../hosts.zip . && cd ..
+          cd blocklists && zip -qr ../blocklists.zip . && cd ..
+          mkdir -p _all
+          cp -r hosts/. _all/
+          cp -r blocklists/. _all/
+          cd _all && zip -qr ../hosts-and-blocklists.zip . && cd ..
+          rm -rf _all
+
+      - name: Publish Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          LATEST=$(gh release list --limit 100 --json tagName --jq '.[].tagName' 2>/dev/null | sort -V | tail -1 || true)
+          if [ -z "$LATEST" ]; then
+            NEXT="v1"
+          else
+            TAG="${LATEST#v}"
+            if [[ "$TAG" == *.* ]]; then
+              NEXT="v${TAG%%.*}.$((10#${TAG#*.} + 1))"
+            else
+              NEXT="v${TAG}.1"
+            fi
+          fi
+          echo "Publishing release: $NEXT"
+          gh release create "$NEXT" --title "$NEXT" --notes "Automated release for run #${{ github.run_number }}" \
+            hosts.zip blocklists.zip hosts-and-blocklists.zip
