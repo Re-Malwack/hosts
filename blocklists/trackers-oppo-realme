@@ -1,5 +1,5 @@
 # Re-Malwack Blocklist - Trackers Oppo Realme
-# Last Update: 2026-09-27 19:41:41 UTC
+# Last Update: 2026-09-28 02:28:31 UTC
 # Total Blocked Domains: 413992
 #
 # --- Sources Details ---
@@ -261024,10 +261024,10 @@
 0.0.0.0 h353.ncadvertiser.com
 0.0.0.0 h3z3-sorangebox.top
 0.0.0.0 h4ck1nb3rg.at
+0.0.0.0 h4g3z1-native-oppo-realme.web.app
 0.0.0.0 h4g3z1-native.apple.web.app
 0.0.0.0 h4g3z1-native.huawei.web.app
 0.0.0.0 h4g3z1-native.lgwebos.web.app
-0.0.0.0 h4g3z1-native.oppo-realme.web.app
 0.0.0.0 h4g3z1-native.roku.web.app
 0.0.0.0 h4g3z1-native.samsung.web.app
 0.0.0.0 h4g3z1-native.winoffice.web.app

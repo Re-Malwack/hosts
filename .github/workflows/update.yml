@@ -2,7 +2,7 @@ name: Update Hosts & Blocklists
 
 on:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -17,10 +17,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repository (full history)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,30 +32,42 @@ jobs:
           python scripts/update.py
           python scripts/update_blocklists.py
 
-      - name: Commit and Push Changes
+      - name: Keep repo history at 2 commits max
+        env:
+          GIT_AUTHOR_NAME: ZG089
+          GIT_AUTHOR_EMAIL: 159061718+ZG089@users.noreply.github.com
+          GIT_COMMITTER_NAME: ZG089
+          GIT_COMMITTER_EMAIL: 159061718+ZG089@users.noreply.github.com
         run: |
-          git config --global user.name "ZG089"
-          git config --global user.email "159061718+ZG089@users.noreply.github.com"
+          set -euo pipefail
 
-          # Stage everything except README.md (data commit)
-          git add -A -- . ':!README.md'
-          if ! git diff --cached --quiet; then
-            # Fold data changes into the data commit, then rebuild the docs commit
-            git reset --soft HEAD~1
-            git restore --staged README.md
-            git commit --amend --no-edit
-            git add README.md
-            git commit --allow-empty -m "docs: update README"
-            git push --force
+          CURRENT_COUNT=$(git rev-list --count HEAD)
+          echo "Current commits: $CURRENT_COUNT"
+
+          if [ "$CURRENT_COUNT" -gt 2 ]; then
+            echo "Resetting to the root commit to collapse history..."
+            ROOT_COMMIT=$(git rev-list --max-parents=0 HEAD)
+            git reset --soft "$ROOT_COMMIT"
+            git reset HEAD
+          fi
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
           else
-            # Only README may have changed: amend the docs commit directly
-            git add README.md
-            if ! git diff --cached --quiet; then
-              git commit --amend -m "docs: update README"
-              git push --force
-            else
-              echo "No changes."
-            fi
+            git commit -m "data: update hosts and blocklists"
+          fi
+
+          FINAL_COUNT=$(git rev-list --count HEAD)
+          echo "Final commits: $FINAL_COUNT"
+
+          if [ "$FINAL_COUNT" -le 2 ]; then
+            git push --force
+            echo "✓ Pushed successfully with $FINAL_COUNT commits"
+          else
+            echo "⚠ WARNING: Still have $FINAL_COUNT commits after cleanup"
+            exit 1
           fi
 
       - name: Create Archive Files

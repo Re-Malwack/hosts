@@ -1,6 +1,6 @@
 # Re-Malwack Blocklist - Trackers Huawei
-# Last Update: 2026-09-27 19:41:42 UTC
-# Total Blocked Domains: 413430
+# Last Update: 2026-09-28 02:28:31 UTC
+# Total Blocked Domains: 413431
 #
 # --- Sources Details ---
 # 1. Adguard Tracking
@@ -260730,6 +260730,7 @@
 0.0.0.0 h353.ncadvertiser.com
 0.0.0.0 h3z3-sorangebox.top
 0.0.0.0 h4ck1nb3rg.at
+0.0.0.0 h4g3z1-native-huawei.web.app
 0.0.0.0 h4g3z1-native.apple.web.app
 0.0.0.0 h4g3z1-native.huawei.web.app
 0.0.0.0 h4g3z1-native.lgwebos.web.app

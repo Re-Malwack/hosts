@@ -1,6 +1,6 @@
 # Re-Malwack Hosts - Lite Profile
-# Last Update: 2026-09-27 19:41:23 UTC
-# Total Blocked Domains: 151433
+# Last Update: 2026-09-28 02:28:13 UTC
+# Total Blocked Domains: 151459
 #
 # --- Host Sources Details ---
 # 1. StevenBlack Unified hosts
@@ -9,7 +9,7 @@
 #
 # 2. Hagezi Light hosts
 #    Source: https://hagezi-mirror.dnsbunker.org/hosts/light.txt
-#    Count:  82593 domains
+#    Count:  82619 domains
 #
 # 3. Adguard Mobile Ads
 #    Source: https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardMobileAds.txt
@@ -2561,6 +2561,7 @@
 0.0.0.0 1ci7f8.cdn-settings.appsflyersdk.com
 0.0.0.0 1ci7f8.launches.appsflyersdk.com
 0.0.0.0 1clic1don.fr
+0.0.0.0 1crbbujy33bg9646.cfd
 0.0.0.0 1cupawesome.com
 0.0.0.0 1curle.attr.appsflyersdk.com
 0.0.0.0 1curle.cdn-settings.appsflyersdk.com
@@ -3471,6 +3472,7 @@
 0.0.0.0 2iju3nw2.skin
 0.0.0.0 2ikjo3uv2m7d31q6ejr2zx32orv1g1790435998.uaid.nmrodam.com
 0.0.0.0 2in1adserver.long.tv
+0.0.0.0 2iwjuyh2.sbs
 0.0.0.0 2j.dd9sey.cfd
 0.0.0.0 2j1j9.bemobtrk.com
 0.0.0.0 2j3hyw2.cfd
@@ -3794,7 +3796,6 @@
 0.0.0.0 32ab5715fad597c2367636b4a64f2b79.safeframe.googlesyndication.com
 0.0.0.0 32azzino777.net
 0.0.0.0 32c4085825646a3522e4d9f4363f5cad.safeframe.googlesyndication.com
-0.0.0.0 32crash.com
 0.0.0.0 32e1dff65ea4eb3627ed-f1ecc94c86a56d3e42e512fcfd192886.r6.cf1.rackcdn.com
 0.0.0.0 32nk.com
 0.0.0.0 32qwuy.attr.appsflyersdk.com
@@ -4889,6 +4890,7 @@
 0.0.0.0 4kngwxegq5.com
 0.0.0.0 4kr2a5.moe.video
 0.0.0.0 4kwqq92ypfcghxd5e0mhlbgv4hspn1790391043.uaid.nmrodam.com
+0.0.0.0 4lbk4yuhj5upn7vvkl.cfd
 0.0.0.0 4leb0e.ru
 0.0.0.0 4lg2dc.cdn-settings.appsflyersdk.com
 0.0.0.0 4lg2dc.inapps.appsflyersdk.com
@@ -24458,7 +24460,6 @@
 0.0.0.0 aparthotfoot.cfd
 0.0.0.0 apartmentfinder.com.112.2o7.net
 0.0.0.0 apathicpictish.cyou
-0.0.0.0 apbelwr.icu
 0.0.0.0 apc.socdm.com
 0.0.0.0 apc.stape.io
 0.0.0.0 apcdp.apnews.com
@@ -32029,6 +32030,7 @@
 0.0.0.0 bottlertilly.qpon
 0.0.0.0 botw.topbucks.com
 0.0.0.0 boudja.com
+0.0.0.0 boughwarrior.com
 0.0.0.0 bougyuestelecom.fr
 0.0.0.0 boujois.fr
 0.0.0.0 bouldatee.cyou
@@ -32159,6 +32161,7 @@
 0.0.0.0 br-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 br-amer.prd.api.bleacherreport.com
 0.0.0.0 br-com-pebmed-main.collector.snplow.net
+0.0.0.0 br-cota.vivoglobal.com
 0.0.0.0 br-info-lgsmartad-com.aws-prd.net
 0.0.0.0 br-p.vivoglobal.com
 0.0.0.0 br-rdx2-lgtvsdp-com.aws-prd.net
@@ -32530,6 +32533,7 @@
 0.0.0.0 broworker14s.com
 0.0.0.0 broworker15s.com
 0.0.0.0 broworker9s.com
+0.0.0.0 browpotware.com
 0.0.0.0 browser-api-br.heytapmobile.com
 0.0.0.0 browser-api-fr.heytapmobile.com
 0.0.0.0 browser-api-gl.heytapmobile.com
@@ -32705,7 +32709,6 @@
 0.0.0.0 btc-vaultrend-ai.net
 0.0.0.0 btc-vindici11-pro.pages.dev
 0.0.0.0 btc365xtb.net
-0.0.0.0 btc700lurot-ai.net
 0.0.0.0 btc800lurotix.net
 0.0.0.0 btc800lurotix.org
 0.0.0.0 btc800lurotix.shop
@@ -32900,7 +32903,6 @@
 0.0.0.0 bulkrat.com
 0.0.0.0 bulkred.com
 0.0.0.0 bulksender.info
-0.0.0.0 bulksms.services
 0.0.0.0 bulktheft.com
 0.0.0.0 bullaeintombs.cfd
 0.0.0.0 bullbittrade.com
@@ -33187,6 +33189,7 @@
 0.0.0.0 bwtn3x.launches.appsflyersdk.com
 0.0.0.0 bwtttkphsxxsx.space
 0.0.0.0 bwujbxxjgxvid.website
+0.0.0.0 bwydgtdh9.alphonso.tv
 0.0.0.0 bx-cloud.com
 0.0.0.0 bx.optimix.asia
 0.0.0.0 bx01.optimix.asia
@@ -34388,6 +34391,7 @@
 0.0.0.0 capotesuncage.cfd
 0.0.0.0 capping.sirius.press
 0.0.0.0 cappuccinomct.pl
+0.0.0.0 capra.solutions
 0.0.0.0 capriceberth.com
 0.0.0.0 capricecapitalpartners.com
 0.0.0.0 capriciouscorn.com
@@ -36469,6 +36473,7 @@
 0.0.0.0 cell7011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7011.fra.web.bid-eu.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
@@ -36573,6 +36578,7 @@
 0.0.0.0 centrum-badan.pl
 0.0.0.0 centrum-medycyny.pl
 0.0.0.0 centrum-zamowien.pl
+0.0.0.0 centrumaktywacji.shop
 0.0.0.0 centrummedycyny.pl
 0.0.0.0 centrummilosci.pl
 0.0.0.0 centrumplay.pl
@@ -36617,7 +36623,6 @@
 0.0.0.0 certify-amp.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 certify.alexametrics.com
-0.0.0.0 certifybox.fun
 0.0.0.0 certo-kancelaria.pl
 0.0.0.0 certoinvestancia.com
 0.0.0.0 certona.net
@@ -43345,7 +43350,6 @@
 0.0.0.0 dcapps.disney.go.com
 0.0.0.0 dcbbwymp1bhlf.cloudfront.net
 0.0.0.0 dcbgulled.qpon
-0.0.0.0 dcbiu.shop
 0.0.0.0 dcbosf.com
 0.0.0.0 dcbuy3.cdn-settings.appsflyersdk.com
 0.0.0.0 dcc-awareness-cn.heytapmobi.com
@@ -47428,6 +47432,7 @@
 0.0.0.0 efoepfgcitoqe.online
 0.0.0.0 eforsa.pl
 0.0.0.0 eforu.com
+0.0.0.0 efovduk59.alphonso.tv
 0.0.0.0 efragola.pl
 0.0.0.0 efreecode.com
 0.0.0.0 efreedom.net
@@ -48639,6 +48644,7 @@
 0.0.0.0 error.fc2.com
 0.0.0.0 error.ihasdsp.inmobi.com
 0.0.0.0 error.pimproll.com
+0.0.0.0 errorartisticmanslaughter.com
 0.0.0.0 errorception.com
 0.0.0.0 errordomain.com
 0.0.0.0 errorfixing.space
@@ -48661,6 +48667,7 @@
 0.0.0.0 es-config-preproduction.sensic.net
 0.0.0.0 es-config.sensic.net
 0.0.0.0 es-gmtdmp.mookie1.com
+0.0.0.0 es-info-lgsmartad-com.aws-prd.net
 0.0.0.0 es-log.vietnamplus.vn
 0.0.0.0 es-plus.videoplaza.tv
 0.0.0.0 es-suncopperland.videoplaza.tv
@@ -54019,6 +54026,7 @@
 0.0.0.0 fr4kpz.casa
 0.0.0.0 fra-01.braze.eu
 0.0.0.0 fra-col.eum-appdynamics.com
+0.0.0.0 fra.stv.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 fra01.metrics.ms.boltgaming.io
 0.0.0.0 fra1-ib.adnxs-simple.com
 0.0.0.0 fra1-ib.adnxs.com
@@ -59746,6 +59754,7 @@
 0.0.0.0 hn.info.lgsmartad.com
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 hn.nextlgsdp.com
+0.0.0.0 hn.rdx2.lgtvsdp.com
 0.0.0.0 hnchrbjicjcxq.space
 0.0.0.0 hndkjxghhmspo.site
 0.0.0.0 hnfwg.voluumtrk.com
@@ -60636,7 +60645,6 @@
 0.0.0.0 hwa.his.huawei.com
 0.0.0.0 hwarnersmagens.com
 0.0.0.0 hwc0pq.register.appsflyersdk.com
-0.0.0.0 hwebtutr.shop
 0.0.0.0 hweiopvvxd.icu
 0.0.0.0 hwepopmhhsz.com
 0.0.0.0 hwf.temporary.site
@@ -66635,6 +66643,7 @@
 0.0.0.0 kartables.fr
 0.0.0.0 kartalescortkizlar.com
 0.0.0.0 kartapaliwa.shop
+0.0.0.0 kartarabatowa.shop
 0.0.0.0 kartavisa.pl
 0.0.0.0 kartlab.it
 0.0.0.0 kartopnexistrax.org
@@ -67826,6 +67835,10 @@
 0.0.0.0 krishnaw500.alphonso.tv
 0.0.0.0 krishnaw503.alphonso.tv
 0.0.0.0 krishnaw504.alphonso.tv
+0.0.0.0 krishnaw505.alphonso.tv
+0.0.0.0 krishnaw506.alphonso.tv
+0.0.0.0 krishnaw507.alphonso.tv
+0.0.0.0 krishnaw508.alphonso.tv
 0.0.0.0 krista-id3824124.eu.cc
 0.0.0.0 kritka.kz
 0.0.0.0 kritlokapitmir.pro
@@ -68778,6 +68791,7 @@
 0.0.0.0 lauansaltire.com
 0.0.0.0 laughcloth.com
 0.0.0.0 laughedentrust.com
+0.0.0.0 laugheeforelay.com
 0.0.0.0 launch-analytics-plugin.launchpotato.com
 0.0.0.0 launch.adserver.yahoo.com
 0.0.0.0 launchbit.com
@@ -69154,6 +69168,7 @@
 0.0.0.0 ledgerbrine.net
 0.0.0.0 ledgierbossier.shop
 0.0.0.0 ledner.org
+0.0.0.0 lednickalaw.com
 0.0.0.0 ledobbensz.blogspot.hu
 0.0.0.0 ledolrepugn.com
 0.0.0.0 lee.blueconic.net
@@ -72192,7 +72207,6 @@
 0.0.0.0 lzdxkstfottwm.space
 0.0.0.0 lzegjbhetdfak.site
 0.0.0.0 lzjl.com
-0.0.0.0 lzkaizks.shop
 0.0.0.0 lzkvx1.adrevenue.appsflyersdk.com
 0.0.0.0 lzkvx1.cdn-settings.appsflyersdk.com
 0.0.0.0 lzkvx1.inapps.appsflyersdk.com
@@ -72497,6 +72511,7 @@
 0.0.0.0 macnewsworld.us.intellitxt.com
 0.0.0.0 macnn.us.intellitxt.com
 0.0.0.0 macobserver.us.intellitxt.com
+0.0.0.0 macoqoo.com
 0.0.0.0 macpurifier.com
 0.0.0.0 macro.adnami.io
 0.0.0.0 macro.pliing.com
@@ -77670,6 +77685,7 @@
 0.0.0.0 mviasyrhzdmqr.site
 0.0.0.0 mvideo.facilitategovernor.com
 0.0.0.0 mvideo.tpmedia.online
+0.0.0.0 mviffanu.shop
 0.0.0.0 mvisflenuppep.online
 0.0.0.0 mvoaopmuvuors.space
 0.0.0.0 mvonline.com
@@ -80578,7 +80594,6 @@
 0.0.0.0 nurtowin.net
 0.0.0.0 nurtowinplatform.com
 0.0.0.0 nurtowinsystem.digital
-0.0.0.0 nusabitpulse.com
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 nuseek.com
 0.0.0.0 nuskin.com
@@ -80979,7 +80994,6 @@
 0.0.0.0 oakshiretrustai-ai.com
 0.0.0.0 oakstonecapitaltrade.com
 0.0.0.0 oaktrona.com
-0.0.0.0 oakverra.shop
 0.0.0.0 oakviro.com
 0.0.0.0 oalstv-cdn-settings.appsflyersdk.com
 0.0.0.0 oalstv-inapps.appsflyersdk.com
@@ -81189,6 +81203,7 @@
 0.0.0.0 obo.moatads.com
 0.0.0.0 obolustrade.com
 0.0.0.0 oboroduki.com
+0.0.0.0 obovabonci.store
 0.0.0.0 obovaltynes.qpon
 0.0.0.0 obozdeutschland.com
 0.0.0.0 obpaid.teads.tv
@@ -81632,6 +81647,7 @@
 0.0.0.0 ofeta75805345.cfd
 0.0.0.0 ofeta964796534.cfd
 0.0.0.0 offaces-butional.com
+0.0.0.0 offbeat-channel.pro
 0.0.0.0 offdeck.telkomsel.com
 0.0.0.0 offer-extensions.com
 0.0.0.0 offer-go.com
@@ -81746,6 +81762,7 @@
 0.0.0.0 ogiesk-inapps.appsflyersdk.com
 0.0.0.0 ogiesk-launches.appsflyersdk.com
 0.0.0.0 ogiesk-register.appsflyersdk.com
+0.0.0.0 ogkntaow.in
 0.0.0.0 ogladaj-online.pl
 0.0.0.0 ogladaj.link
 0.0.0.0 ogladajfilmy.pl
@@ -86638,6 +86655,7 @@
 0.0.0.0 pl-aukcja234907123421897.cfd
 0.0.0.0 pl-aukcja7834714556.cfd
 0.0.0.0 pl-aukcja832874147.cfd
+0.0.0.0 pl-bilety.lol
 0.0.0.0 pl-bvci5.sbs
 0.0.0.0 pl-csalpl.eu.cc
 0.0.0.0 pl-csamrp.eu.cc
@@ -87723,8 +87741,8 @@
 0.0.0.0 pokrutim.ru
 0.0.0.0 pol-dywan.pl
 0.0.0.0 pol.social
+0.0.0.0 poland-corepay4.eu.cc
 0.0.0.0 poland-corepay5.eu.cc
-0.0.0.0 poland-paczzka382393.cfd
 0.0.0.0 polandupcod.com
 0.0.0.0 polantrivextrade.com
 0.0.0.0 polar-capridge.live
@@ -90510,6 +90528,7 @@
 0.0.0.0 q5pw4u.launches.appsflyersdk.com
 0.0.0.0 q5v8lz.lat
 0.0.0.0 q5x267nutfe7rc04c9k0pyc9jk9l21790403199.uaid.nmrodam.com
+0.0.0.0 q63kj88incjbb6g99i3np.cfd
 0.0.0.0 q6e0hyd1w1y2n65syhhohgc4vz7pn1790428220.uaid.nmrodam.com
 0.0.0.0 q6en89zdanzdcis7d1ea8ssy5ib5i1790453225.nuid.nmrodam.com
 0.0.0.0 q6py4i.attr.appsflyersdk.com
@@ -90943,6 +90962,7 @@
 0.0.0.0 qlcdjnjmbpp.com
 0.0.0.0 qlcpfegljhrtz.website
 0.0.0.0 qlfvmcy1sp.com
+0.0.0.0 qlhnpdj93.alphonso.tv
 0.0.0.0 qlipsodigital.checkm8.com
 0.0.0.0 qlitics.com
 0.0.0.0 qljxckgdyaici.site
@@ -94304,7 +94324,6 @@
 0.0.0.0 ravkorynai-poland.com
 0.0.0.0 ravkorynai.com
 0.0.0.0 ravkorynai.net
-0.0.0.0 ravnkapito.net
 0.0.0.0 ravqunelombradiqtrade.com
 0.0.0.0 ravtovaulttrade.com
 0.0.0.0 raw.vidyard.com
@@ -95167,7 +95186,6 @@
 0.0.0.0 rendering.sharethrough.com
 0.0.0.0 rendfy.com
 0.0.0.0 rendia-software.shop
-0.0.0.0 rendinvoia.com
 0.0.0.0 rendistero.net
 0.0.0.0 rendistero.tech
 0.0.0.0 renditemaschine.net
@@ -97549,6 +97567,7 @@
 0.0.0.0 rumboinverenza.net
 0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 rumds.wpdigital.net
+0.0.0.0 rumfordmarkets.com
 0.0.0.0 rumorfix.us.intellitxt.com
 0.0.0.0 rumstat-01.cdnvideo.ru
 0.0.0.0 rumstat.cdnvideo.ru
@@ -98492,6 +98511,7 @@
 0.0.0.0 sa.nextlgsdp.com
 0.0.0.0 sa.openmedia.co
 0.0.0.0 sa.outbrain.com
+0.0.0.0 sa.rdx2.nextlgsdp.com
 0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sa.scorpion.co
 0.0.0.0 sa.semasio.net
@@ -100226,7 +100246,6 @@
 0.0.0.0 securemypc.co.uk
 0.0.0.0 securenexttrade.com
 0.0.0.0 secureportal.skin
-0.0.0.0 secureportal.space
 0.0.0.0 securepubads.g.doubleclick-cn.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secureredirect101.com
@@ -107607,6 +107626,7 @@
 0.0.0.0 steel-rendvane.com
 0.0.0.0 steel-rendvane.live
 0.0.0.0 steelbitepro24.com
+0.0.0.0 steeleexhaust.qpon
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 steenbergen.web.ero-advertising.com
@@ -107887,6 +107907,7 @@
 0.0.0.0 strack.collegeboard.org
 0.0.0.0 strack.pubmatic.com
 0.0.0.0 stracking.rogers.com
+0.0.0.0 strafscamp.store
 0.0.0.0 stragepatins.qpon
 0.0.0.0 straight-outta-cotton.com
 0.0.0.0 straightnest.com
@@ -107965,6 +107986,7 @@
 0.0.0.0 streetvibe.pl
 0.0.0.0 strefa-filmu.pl
 0.0.0.0 strefajeansu-bd.com
+0.0.0.0 strefakarty.shop
 0.0.0.0 strefamlodych.pl
 0.0.0.0 stregis.org
 0.0.0.0 stregquind.store
@@ -112868,6 +112890,8 @@
 0.0.0.0 tn.5.p2l.info
 0.0.0.0 tn.alphonso.tv
 0.0.0.0 tn.flashb.id
+0.0.0.0 tn.info.lgsmartad.com
+0.0.0.0 tn.rdx2.lgtvsdp.com
 0.0.0.0 tn0rba.adrevenue.appsflyersdk.com
 0.0.0.0 tn0rba.cdn-settings.appsflyersdk.com
 0.0.0.0 tn0rba.conversions.appsflyersdk.com
@@ -121515,6 +121539,7 @@
 0.0.0.0 vqmmrs-conversions.appsflyersdk.com
 0.0.0.0 vqmmrs-launches.appsflyersdk.com
 0.0.0.0 vqqaelqorzrjq.top
+0.0.0.0 vqrozzoylvaal.top
 0.0.0.0 vqserve.com
 0.0.0.0 vqtsht.inapps.appsflyersdk.com
 0.0.0.0 vqtsht.launches.appsflyersdk.com
@@ -122308,6 +122333,7 @@
 0.0.0.0 warlog.info
 0.0.0.0 warlog.ru
 0.0.0.0 warmafterthought.com
+0.0.0.0 warmeholze.de
 0.0.0.0 warnerbros.112.2o7.net
 0.0.0.0 warnerbrothersrecords.112.2o7.net
 0.0.0.0 warnermediagroup-com.videoplayerhub.com
@@ -137700,6 +137726,7 @@
 0.0.0.0 www.ofsets.lat
 0.0.0.0 www.oftalintra.store
 0.0.0.0 www.oftesid.lat
+0.0.0.0 www.ogkntaow.in
 0.0.0.0 www.ogladaj-online.pl
 0.0.0.0 www.ogladaj.link
 0.0.0.0 www.ogladajfilmy.pl
@@ -149952,7 +149979,6 @@
 0.0.0.0 zagent2687.yg5sjx5kzy.com
 0.0.0.0 zagent2702.yg5sjx5kzy.com
 0.0.0.0 zahida-kebab.pl
-0.0.0.0 zahlbrunntreasury.net
 0.0.0.0 zahlcbkhmkful.online
 0.0.0.0 zaho.pl
 0.0.0.0 zahrtharwaq.net
