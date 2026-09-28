@@ -2,7 +2,7 @@ name: Update Hosts & Blocklists
 
 on:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */6 * * *"  # Changed from */8 to */6 hours
   workflow_dispatch:
 
 concurrency:
@@ -37,26 +37,17 @@ jobs:
           git config --global user.name "ZG089"
           git config --global user.email "159061718+ZG089@users.noreply.github.com"
 
-          # Stage everything except README.md (data commit)
           git add -A -- . ':!README.md'
           if ! git diff --cached --quiet; then
-            # Fold data changes into the data commit, then rebuild the docs commit
-            git reset --soft HEAD~1
-            git restore --staged README.md
-            git commit --amend --no-edit
-            git add README.md
-            git commit --allow-empty -m "docs: update README"
-            git push --force
-          else
-            # Only README may have changed: amend the docs commit directly
-            git add README.md
-            if ! git diff --cached --quiet; then
-              git commit --amend -m "docs: update README"
-              git push --force
-            else
-              echo "No changes."
-            fi
+            git commit -m "data: update hosts and blocklists"
           fi
+
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: update README"
+          fi
+
+          git push --force-with-lease
 
       - name: Create Archive Files
         run: |
