@@ -1,6 +1,6 @@
 # Re-Malwack Blocklist - Trackers Vivo
-# Last Update: 2026-09-27 19:41:41 UTC
-# Total Blocked Domains: 413653
+# Last Update: 2026-09-28 01:40:42 UTC
+# Total Blocked Domains: 413654
 #
 # --- Sources Details ---
 # 1. Adguard Tracking
@@ -13,7 +13,7 @@
 #
 # 3. Hagezi Native Vivo
 #    Source: https://hagezi-mirror.dnsbunker.org/hosts/native.vivo.txt
-#    Count:  244 domains
+#    Count:  245 domains
 #
 # --- End of Sources ---
 0.0.0.0 0.avmarket.rs
@@ -29373,6 +29373,7 @@
 0.0.0.0 bquvm.performancebyie.com
 0.0.0.0 bqvndd.ifood.com.br
 0.0.0.0 br-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 br-cota.vivoglobal.com
 0.0.0.0 br-p.vivoglobal.com
 0.0.0.0 br.ad.lgsmartad.com
 0.0.0.0 br.adpinfo.com
@@ -260811,12 +260812,12 @@
 0.0.0.0 h353.ncadvertiser.com
 0.0.0.0 h3z3-sorangebox.top
 0.0.0.0 h4ck1nb3rg.at
+0.0.0.0 h4g3z1-native-vivo.web.app
 0.0.0.0 h4g3z1-native.apple.web.app
 0.0.0.0 h4g3z1-native.huawei.web.app
 0.0.0.0 h4g3z1-native.lgwebos.web.app
 0.0.0.0 h4g3z1-native.roku.web.app
 0.0.0.0 h4g3z1-native.samsung.web.app
-0.0.0.0 h4g3z1-native.vivo.web.app
 0.0.0.0 h4g3z1-native.winoffice.web.app
 0.0.0.0 h4g3z1-native.xiaomi.web.app
 0.0.0.0 h4usj4d.com
