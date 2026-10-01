@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts # StevenBlack Gambling
+https://blocklistproject.github.io/Lists/gambling.txt # BlocklistProject Gambling
