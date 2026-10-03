@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardTracking.txt # Adguard Tracking
+https://blocklistproject.github.io/Lists/tracking.txt # BlocklistProject Tracking
