@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T22:13:17Z",
+  "generated_at": "2026-10-10T04:13:51Z",
   "profiles": [
     {
       "name": "lite",
-      "domains": 199332,
+      "domains": 199636,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/lite",
       "sources": [
         {
@@ -14,7 +14,7 @@
         {
           "provider": "Hagezi Light hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/light.txt",
-          "count": 133173
+          "count": 133477
         },
         {
           "provider": "Adguard Mobile Ads",
@@ -30,7 +30,7 @@
     },
     {
       "name": "balanced",
-      "domains": 613202,
+      "domains": 613519,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/balanced",
       "sources": [
         {
@@ -41,7 +41,7 @@
         {
           "provider": "Hagezi Multi-Normal hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/multi.txt",
-          "count": 344665
+          "count": 344290
         },
         {
           "provider": "1Hosts Lite",
@@ -72,7 +72,7 @@
     },
     {
       "name": "default",
-      "domains": 829543,
+      "domains": 829865,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/default",
       "sources": [
         {
@@ -83,7 +83,7 @@
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.txt",
-          "count": 443904
+          "count": 443239
         },
         {
           "provider": "1Hosts Lite",
@@ -119,7 +119,7 @@
     },
     {
       "name": "aggressive",
-      "domains": 1088950,
+      "domains": 1089147,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/aggressive",
       "sources": [
         {
@@ -130,7 +130,7 @@
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.plus.txt",
-          "count": 605530
+          "count": 604676
         },
         {
           "provider": "1Hosts Lite",
@@ -231,13 +231,13 @@
     },
     {
       "name": "malware",
-      "domains": 1626174,
+      "domains": 2102173,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/malware",
       "sources": [
         {
           "provider": "Hagezi Threat Intelligence Feed",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/tif.txt",
-          "count": 1626174
+          "count": 2102173
         }
       ]
     },
