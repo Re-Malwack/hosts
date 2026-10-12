@@ -1,0 +1,5 @@
+xiaomi    | https://hagezi-mirror.dnsbunker.org/hosts/native.xiaomi.txt      # Hagezi Native Xiaomi
+samsung   | https://hagezi-mirror.dnsbunker.org/hosts/native.samsung.txt     # Hagezi Native Samsung
+oppo-realme | https://hagezi-mirror.dnsbunker.org/hosts/native.oppo-realme.txt # Hagezi Native Oppo/Realme
+vivo      | https://hagezi-mirror.dnsbunker.org/hosts/native.vivo.txt        # Hagezi Native Vivo
+huawei    | https://hagezi-mirror.dnsbunker.org/hosts/native.huawei.txt      # Hagezi Native Huawei
