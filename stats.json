@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:16:49Z",
+  "generated_at": "2026-10-15T20:54:48Z",
   "profiles": [
     {
       "name": "lite",
@@ -231,13 +231,13 @@
     },
     {
       "name": "malware",
-      "domains": 1403670,
+      "domains": 1581280,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/malware",
       "sources": [
         {
           "provider": "Hagezi Threat Intelligence Feed",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/tif.txt",
-          "count": 1403670
+          "count": 1581280
         }
       ]
     },
