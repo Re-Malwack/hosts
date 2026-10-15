@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-14T21:16:38Z",
+  "generated_at": "2026-10-15T03:05:49Z",
   "profiles": [
     {
       "name": "lite",
-      "domains": 212604,
+      "domains": 213679,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/lite",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 72493
+          "count": 73601
         },
         {
           "provider": "Hagezi Light hosts",
@@ -30,13 +30,13 @@
     },
     {
       "name": "balanced",
-      "domains": 629770,
+      "domains": 630816,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/balanced",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 72493
+          "count": 73601
         },
         {
           "provider": "Hagezi Multi-Normal hosts",
@@ -72,13 +72,13 @@
     },
     {
       "name": "default",
-      "domains": 848577,
+      "domains": 847330,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/default",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 72493
+          "count": 73601
         },
         {
           "provider": "Hagezi Pro",
@@ -119,13 +119,13 @@
     },
     {
       "name": "aggressive",
-      "domains": 1108303,
+      "domains": 1107056,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/aggressive",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 72493
+          "count": 73601
         },
         {
           "provider": "Hagezi Pro",
@@ -190,13 +190,13 @@
     },
     {
       "name": "gambling",
-      "domains": 345658,
+      "domains": 345671,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/gambling",
       "sources": [
         {
           "provider": "StevenBlack Gambling",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts",
-          "count": 6699
+          "count": 6712
         },
         {
           "provider": "BlocklistProject Gambling",
