@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-16T20:29:01Z",
+  "generated_at": "2026-10-17T02:54:42Z",
   "profiles": [
     {
       "name": "lite",
-      "domains": 217344,
+      "domains": 217531,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/lite",
       "sources": [
         {
@@ -14,7 +14,7 @@
         {
           "provider": "Hagezi Light hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/light.txt",
-          "count": 150236
+          "count": 150421
         },
         {
           "provider": "Adguard Mobile Ads",
@@ -30,7 +30,7 @@
     },
     {
       "name": "balanced",
-      "domains": 638213,
+      "domains": 637737,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/balanced",
       "sources": [
         {
@@ -41,7 +41,7 @@
         {
           "provider": "Hagezi Multi-Normal hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/multi.txt",
-          "count": 363020
+          "count": 360620
         },
         {
           "provider": "1Hosts Lite",
@@ -72,7 +72,7 @@
     },
     {
       "name": "default",
-      "domains": 855876,
+      "domains": 855265,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/default",
       "sources": [
         {
@@ -83,7 +83,7 @@
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.txt",
-          "count": 464892
+          "count": 462199
         },
         {
           "provider": "1Hosts Lite",
@@ -119,7 +119,7 @@
     },
     {
       "name": "aggressive",
-      "domains": 1116075,
+      "domains": 1115310,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/aggressive",
       "sources": [
         {
@@ -130,7 +130,7 @@
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.plus.txt",
-          "count": 627380
+          "count": 624450
         },
         {
           "provider": "1Hosts Lite",
@@ -231,13 +231,13 @@
     },
     {
       "name": "malware",
-      "domains": 1621774,
+      "domains": 1878458,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/malware",
       "sources": [
         {
           "provider": "Hagezi Threat Intelligence Feed",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/tif.txt",
-          "count": 1621774
+          "count": 1878458
         }
       ]
     },
@@ -304,7 +304,7 @@
     },
     {
       "name": "trackers-oppo-realme",
-      "domains": 437258,
+      "domains": 437259,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-oppo-realme",
       "sources": [
         {
@@ -320,13 +320,13 @@
         {
           "provider": "Hagezi Native Oppo/Realme",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/native.oppo-realme.txt",
-          "count": 576
+          "count": 577
         }
       ]
     },
     {
       "name": "trackers-vivo",
-      "domains": 436918,
+      "domains": 436921,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-vivo",
       "sources": [
         {
@@ -342,7 +342,7 @@
         {
           "provider": "Hagezi Native Vivo",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/native.vivo.txt",
-          "count": 245
+          "count": 248
         }
       ]
     },
