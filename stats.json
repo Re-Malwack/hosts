@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-18T15:21:14Z",
+  "generated_at": "2026-10-18T20:04:00Z",
   "profiles": [
     {
       "name": "lite",
-      "domains": 217592,
+      "domains": 215479,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/lite",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 73601
+          "count": 71460
         },
         {
           "provider": "Hagezi Light hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/light.txt",
-          "count": 150495
+          "count": 150531
         },
         {
           "provider": "Adguard Mobile Ads",
@@ -30,18 +30,18 @@
     },
     {
       "name": "balanced",
-      "domains": 639553,
+      "domains": 637640,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/balanced",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 73601
+          "count": 71460
         },
         {
           "provider": "Hagezi Multi-Normal hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/multi.txt",
-          "count": 362913
+          "count": 363159
         },
         {
           "provider": "1Hosts Lite",
@@ -72,18 +72,18 @@
     },
     {
       "name": "default",
-      "domains": 857512,
+      "domains": 854784,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/default",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 73601
+          "count": 71460
         },
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.txt",
-          "count": 464499
+          "count": 464931
         },
         {
           "provider": "1Hosts Lite",
@@ -119,18 +119,18 @@
     },
     {
       "name": "aggressive",
-      "domains": 1117615,
+      "domains": 1114698,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/aggressive",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 73601
+          "count": 71460
         },
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.plus.txt",
-          "count": 626724
+          "count": 626974
         },
         {
           "provider": "1Hosts Lite",
@@ -231,13 +231,13 @@
     },
     {
       "name": "malware",
-      "domains": 2257760,
+      "domains": 2324214,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/malware",
       "sources": [
         {
           "provider": "Hagezi Threat Intelligence Feed",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/tif.txt",
-          "count": 2257760
+          "count": 2324214
         }
       ]
     },
