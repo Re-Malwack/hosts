@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:08:08Z",
+  "generated_at": "2026-10-21T16:34:57Z",
   "profiles": [
     {
       "name": "lite",
@@ -30,7 +30,7 @@
     },
     {
       "name": "balanced",
-      "domains": 642741,
+      "domains": 644228,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/balanced",
       "sources": [
         {
@@ -41,7 +41,7 @@
         {
           "provider": "Hagezi Multi-Normal hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/multi.txt",
-          "count": 366176
+          "count": 367872
         },
         {
           "provider": "1Hosts Lite",
