@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-27T17:26:34Z",
+  "generated_at": "2026-10-27T21:48:18Z",
   "profiles": [
     {
       "name": "lite",
-      "domains": 224259,
+      "domains": 225730,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/lite",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 74448
+          "count": 75919
         },
         {
           "provider": "Hagezi Light hosts",
@@ -30,13 +30,13 @@
     },
     {
       "name": "balanced",
-      "domains": 647205,
+      "domains": 648668,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/balanced",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 74448
+          "count": 75919
         },
         {
           "provider": "Hagezi Multi-Normal hosts",
@@ -72,13 +72,13 @@
     },
     {
       "name": "default",
-      "domains": 865153,
+      "domains": 866409,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/default",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 74448
+          "count": 75919
         },
         {
           "provider": "Hagezi Pro",
@@ -119,13 +119,13 @@
     },
     {
       "name": "aggressive",
-      "domains": 1015964,
+      "domains": 1017220,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/aggressive",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 74448
+          "count": 75919
         },
         {
           "provider": "Hagezi Pro",
