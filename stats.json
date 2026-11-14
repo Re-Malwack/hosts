@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-13T23:13:46Z",
+  "generated_at": "2026-11-14T04:50:43Z",
   "profiles": [
     {
       "name": "lite",
-      "domains": 231724,
+      "domains": 230381,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/lite",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 78183
+          "count": 77277
         },
         {
           "provider": "Hagezi Light hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/light.txt",
-          "count": 161989
+          "count": 162125
         },
         {
           "provider": "Adguard Mobile Ads",
@@ -30,18 +30,18 @@
     },
     {
       "name": "balanced",
-      "domains": 698897,
+      "domains": 698397,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/balanced",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 78183
+          "count": 77277
         },
         {
           "provider": "Hagezi Multi-Normal hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/multi.txt",
-          "count": 434329
+          "count": 433762
         },
         {
           "provider": "1Hosts Lite",
@@ -72,18 +72,18 @@
     },
     {
       "name": "default",
-      "domains": 913181,
+      "domains": 912468,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/default",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 78183
+          "count": 77277
         },
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.txt",
-          "count": 504054
+          "count": 503294
         },
         {
           "provider": "1Hosts Lite",
@@ -119,18 +119,18 @@
     },
     {
       "name": "aggressive",
-      "domains": 1053761,
+      "domains": 1054446,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/aggressive",
       "sources": [
         {
           "provider": "StevenBlack Unified hosts",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-          "count": 78183
+          "count": 77277
         },
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.plus.txt",
-          "count": 573490
+          "count": 571540
         },
         {
           "provider": "1Hosts Lite",
@@ -173,13 +173,13 @@
   "blocklists": [
     {
       "name": "porn",
-      "domains": 115855,
+      "domains": 115865,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/porn",
       "sources": [
         {
           "provider": "StevenBlack Porn",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
-          "count": 76795
+          "count": 76805
         },
         {
           "provider": "Anti-Porn HOSTS",
@@ -190,13 +190,13 @@
     },
     {
       "name": "gambling",
-      "domains": 345682,
+      "domains": 345703,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/gambling",
       "sources": [
         {
           "provider": "StevenBlack Gambling",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts",
-          "count": 6723
+          "count": 6744
         },
         {
           "provider": "BlocklistProject Gambling",
