@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:39:53Z",
+  "generated_at": "2026-11-21T02:26:36Z",
   "profiles": [
     {
       "name": "lite",
@@ -30,7 +30,7 @@
     },
     {
       "name": "balanced",
-      "domains": 698193,
+      "domains": 698133,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/balanced",
       "sources": [
         {
@@ -41,7 +41,7 @@
         {
           "provider": "Hagezi Multi-Normal hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/multi.txt",
-          "count": 408813
+          "count": 408519
         },
         {
           "provider": "1Hosts Lite",
@@ -72,7 +72,7 @@
     },
     {
       "name": "default",
-      "domains": 913479,
+      "domains": 913472,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/default",
       "sources": [
         {
@@ -83,7 +83,7 @@
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.txt",
-          "count": 526352
+          "count": 526116
         },
         {
           "provider": "1Hosts Lite",
@@ -113,13 +113,13 @@
         {
           "provider": "BlocklistProject - Ads",
           "url": "https://blocklistproject.github.io/Lists/ads.txt",
-          "count": 235819
+          "count": 235821
         }
       ]
     },
     {
       "name": "aggressive",
-      "domains": 1063263,
+      "domains": 1063152,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/aggressive",
       "sources": [
         {
@@ -130,7 +130,7 @@
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.plus.txt",
-          "count": 576700
+          "count": 576328
         },
         {
           "provider": "1Hosts Lite",
@@ -160,7 +160,7 @@
         {
           "provider": "BlocklistProject - Ads",
           "url": "https://blocklistproject.github.io/Lists/ads.txt",
-          "count": 235819
+          "count": 235821
         },
         {
           "provider": "BlocklistProject - Malicious Redirects",
@@ -219,31 +219,31 @@
     },
     {
       "name": "social",
-      "domains": 3785,
+      "domains": 3800,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/social",
       "sources": [
         {
           "provider": "StevenBlack Social Media",
           "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts",
-          "count": 3785
+          "count": 3800
         }
       ]
     },
     {
       "name": "malware",
-      "domains": 1622398,
+      "domains": 1622661,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/malware",
       "sources": [
         {
           "provider": "Hagezi Threat Intelligence Feed",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/tif.txt",
-          "count": 1622398
+          "count": 1622661
         }
       ]
     },
     {
       "name": "trackers",
-      "domains": 218818,
+      "domains": 218819,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers",
       "sources": [
         {
@@ -254,13 +254,13 @@
         {
           "provider": "BlocklistProject Tracking",
           "url": "https://blocklistproject.github.io/Lists/tracking.txt",
-          "count": 143837
+          "count": 143838
         }
       ]
     },
     {
       "name": "trackers-xiaomi",
-      "domains": 218901,
+      "domains": 218902,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-xiaomi",
       "sources": [
         {
@@ -271,7 +271,7 @@
         {
           "provider": "BlocklistProject Tracking",
           "url": "https://blocklistproject.github.io/Lists/tracking.txt",
-          "count": 143837
+          "count": 143838
         },
         {
           "provider": "Hagezi Native Xiaomi",
@@ -282,7 +282,7 @@
     },
     {
       "name": "trackers-samsung",
-      "domains": 218821,
+      "domains": 218822,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-samsung",
       "sources": [
         {
@@ -293,7 +293,7 @@
         {
           "provider": "BlocklistProject Tracking",
           "url": "https://blocklistproject.github.io/Lists/tracking.txt",
-          "count": 143837
+          "count": 143838
         },
         {
           "provider": "Hagezi Native Samsung",
@@ -304,7 +304,7 @@
     },
     {
       "name": "trackers-oppo-realme",
-      "domains": 219439,
+      "domains": 219440,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-oppo-realme",
       "sources": [
         {
@@ -315,7 +315,7 @@
         {
           "provider": "BlocklistProject Tracking",
           "url": "https://blocklistproject.github.io/Lists/tracking.txt",
-          "count": 143837
+          "count": 143838
         },
         {
           "provider": "Hagezi Native Oppo/Realme",
@@ -326,7 +326,7 @@
     },
     {
       "name": "trackers-vivo",
-      "domains": 219108,
+      "domains": 219109,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-vivo",
       "sources": [
         {
@@ -337,7 +337,7 @@
         {
           "provider": "BlocklistProject Tracking",
           "url": "https://blocklistproject.github.io/Lists/tracking.txt",
-          "count": 143837
+          "count": 143838
         },
         {
           "provider": "Hagezi Native Vivo",
@@ -348,7 +348,7 @@
     },
     {
       "name": "trackers-huawei",
-      "domains": 218840,
+      "domains": 218841,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-huawei",
       "sources": [
         {
@@ -359,7 +359,7 @@
         {
           "provider": "BlocklistProject Tracking",
           "url": "https://blocklistproject.github.io/Lists/tracking.txt",
-          "count": 143837
+          "count": 143838
         },
         {
           "provider": "Hagezi Native Huawei",
