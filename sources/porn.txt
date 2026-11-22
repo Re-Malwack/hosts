@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts # StevenBlack Porn
+https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/refs/heads/master/HOSTS.txt # Anti-Porn HOSTS
