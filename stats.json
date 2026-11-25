@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-25T01:53:55Z",
+  "generated_at": "2026-11-25T16:46:08Z",
   "profiles": [
     {
       "name": "lite",
-      "domains": 231904,
+      "domains": 232039,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/lite",
       "sources": [
         {
@@ -14,7 +14,7 @@
         {
           "provider": "Hagezi Light hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/light.txt",
-          "count": 158059
+          "count": 158190
         },
         {
           "provider": "Adguard Mobile Ads",
@@ -30,7 +30,7 @@
     },
     {
       "name": "balanced",
-      "domains": 703356,
+      "domains": 702636,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/balanced",
       "sources": [
         {
@@ -41,7 +41,7 @@
         {
           "provider": "Hagezi Multi-Normal hosts",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/multi.txt",
-          "count": 397096
+          "count": 396170
         },
         {
           "provider": "1Hosts Lite",
@@ -51,7 +51,7 @@
         {
           "provider": "Adguard DNS",
           "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt",
-          "count": 193494
+          "count": 193874
         },
         {
           "provider": "Adguard Mobile Ads",
@@ -72,7 +72,7 @@
     },
     {
       "name": "default",
-      "domains": 922509,
+      "domains": 922129,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/default",
       "sources": [
         {
@@ -83,7 +83,7 @@
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.txt",
-          "count": 524373
+          "count": 523488
         },
         {
           "provider": "1Hosts Lite",
@@ -93,7 +93,7 @@
         {
           "provider": "Adguard DNS",
           "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt",
-          "count": 193494
+          "count": 193874
         },
         {
           "provider": "Adguard Mobile Ads",
@@ -119,7 +119,7 @@
     },
     {
       "name": "aggressive",
-      "domains": 1077767,
+      "domains": 1077093,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/hosts/aggressive",
       "sources": [
         {
@@ -130,7 +130,7 @@
         {
           "provider": "Hagezi Pro",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/pro.plus.txt",
-          "count": 580489
+          "count": 579278
         },
         {
           "provider": "1Hosts Lite",
@@ -140,7 +140,7 @@
         {
           "provider": "Adguard DNS",
           "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt",
-          "count": 193494
+          "count": 193874
         },
         {
           "provider": "Adguard Mobile Ads",
@@ -231,25 +231,25 @@
     },
     {
       "name": "malware",
-      "domains": 1029987,
+      "domains": 976686,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/malware",
       "sources": [
         {
           "provider": "Hagezi Threat Intelligence Feed",
           "url": "https://hagezi-mirror.dnsbunker.org/hosts/tif.txt",
-          "count": 1029987
+          "count": 976686
         }
       ]
     },
     {
       "name": "trackers",
-      "domains": 222047,
+      "domains": 222052,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers",
       "sources": [
         {
           "provider": "Adguard Tracking",
           "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardTracking.txt",
-          "count": 120832
+          "count": 120837
         },
         {
           "provider": "BlocklistProject Tracking",
@@ -260,13 +260,13 @@
     },
     {
       "name": "trackers-xiaomi",
-      "domains": 222130,
+      "domains": 222135,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-xiaomi",
       "sources": [
         {
           "provider": "Adguard Tracking",
           "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardTracking.txt",
-          "count": 120832
+          "count": 120837
         },
         {
           "provider": "BlocklistProject Tracking",
@@ -282,13 +282,13 @@
     },
     {
       "name": "trackers-samsung",
-      "domains": 222050,
+      "domains": 222055,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-samsung",
       "sources": [
         {
           "provider": "Adguard Tracking",
           "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardTracking.txt",
-          "count": 120832
+          "count": 120837
         },
         {
           "provider": "BlocklistProject Tracking",
@@ -304,13 +304,13 @@
     },
     {
       "name": "trackers-oppo-realme",
-      "domains": 222668,
+      "domains": 222673,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-oppo-realme",
       "sources": [
         {
           "provider": "Adguard Tracking",
           "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardTracking.txt",
-          "count": 120832
+          "count": 120837
         },
         {
           "provider": "BlocklistProject Tracking",
@@ -326,13 +326,13 @@
     },
     {
       "name": "trackers-vivo",
-      "domains": 222337,
+      "domains": 222342,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-vivo",
       "sources": [
         {
           "provider": "Adguard Tracking",
           "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardTracking.txt",
-          "count": 120832
+          "count": 120837
         },
         {
           "provider": "BlocklistProject Tracking",
@@ -348,13 +348,13 @@
     },
     {
       "name": "trackers-huawei",
-      "domains": 222069,
+      "domains": 222074,
       "raw_link": "https://raw.githubusercontent.com/Re-Malwack/hosts/main/blocklists/trackers-huawei",
       "sources": [
         {
           "provider": "Adguard Tracking",
           "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/refs/heads/master/AdguardTracking.txt",
-          "count": 120832
+          "count": 120837
         },
         {
           "provider": "BlocklistProject Tracking",
